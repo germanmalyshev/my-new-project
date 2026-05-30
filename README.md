@@ -3,7 +3,7 @@
 
 ## Summary
 
-Crafting art with AI is a pioneering endeavor that blends human imagination with artificial intelligence to reconsider digital artwork. By employing sophisticated generative frameworks, it enables individuals to jointly produce breathtaking,personalized graphics viastraight forward text cues and interactive picture modification. It's where fancy encounters the subsequent wave of creative articulation. “Building AI course project”
+*Crafting art with AI is a pioneering endeavor that blends human imagination with artificial intelligence to reconsider digital artwork. By employing sophisticated generative frameworks, it enables individuals to jointly produce breathtaking,personalized graphics viastraight forward text cues and interactive picture modification. It's where fancy encounters the subsequent wave of creative articulation. “Building AI course project”
 
 
 ## Background
@@ -21,12 +21,6 @@ Why the Topic is Important & Interesting: this topic sits at the fascinating int
 *The Collaboration (AI Generation): The AI interprets the input, analyzing composition and intent, and generates a refined, high-quality visual draft in seconds.
 *The Refinement (Human Polish): The user doesn't just accept a final image; they can modify specific areas, adjust the style, change the color palette, or add new elements through simple brush strokes, iterating until the piece matches their vision.
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![image of an online AI blonde girl] https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B1%D0%B1%D0%B8,_%D0%9C%D0%B0%D1%80%D0%B3%D0%BE by Somake AI
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
 
 This is how you create code examples:
 ```
@@ -48,7 +42,9 @@ main()
 
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
+*Ready-Made Data (From Others): to teach the AI how to understand words and images, the project uses existing, massive libraries of pictures and descriptions that are already available to developers.
+*Custom Data (From Us): to make the app unique, special, and easy to use, we add our own curated data. We use copyright-free classic art from museums to teach the AI beautiful painting techniques. We use a powerful, pre-built AI "brain" trained on public data, and then customize it with our own specific artistic style and user feedback.
+
 If you need to use links, here's an example:
 [Twitter API](https://developer.twitter.com/en/docs)
 
