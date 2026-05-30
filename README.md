@@ -23,7 +23,7 @@ Why the Topic is Important & Interesting: this topic sits at the fascinating int
 
 Images will make your README look nice!
 Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![image of an online AI blonde girl] <img src="https://www.somake.ai/ru/tools/blonde-hair-filter" by Somake AI
+![image of an online AI blonde girl] https://ru.wikipedia.org/wiki/%D0%A0%D0%BE%D0%B1%D0%B1%D0%B8,_%D0%9C%D0%B0%D1%80%D0%B3%D0%BE by Somake AI
 
 If you need to resize images, you have to use an HTML tag, like this:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
