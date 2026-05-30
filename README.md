@@ -19,34 +19,15 @@ Why the Topic is Important & Interesting: this topic sits at the fascinating int
 
 *The Spark (Input): The user starts by providing an initial concept. This can be a rough brush sketch, a few uploaded reference images, or a simple text description (e.g., "A neon-lit cyberpunk cafe in the rain").
 *The Collaboration (AI Generation): The AI interprets the input, analyzing composition and intent, and generates a refined, high-quality visual draft in seconds.
-*The Refinement (Human Polish): The user doesn't just accept a final image; they can modify specific areas, adjust the style, change the color palette, or add new elements through simple brush strokes, iterating until the piece matches their vision.
-
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+*The Refinement (Human Polish): The user doesn't just accept a final image; they can modify specific areas, adjust the style, change the color palette, or add new elements through simple brush strokes, iterating until the piece matches their visions.
 
 
 ## Data sources and AI methods
 *Ready-Made Data (From Others): to teach the AI how to understand words and images, the project uses existing, massive libraries of pictures and descriptions that are already available to developers.
 *Custom Data (From Us): to make the app unique, special, and easy to use, we add our own curated data. We use copyright-free classic art from museums to teach the AI beautiful painting techniques. We use a powerful, pre-built AI "brain" trained on public data, and then customize it with our own specific artistic style and user feedback.
 
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
+[WikiArt.org](https://www.wikiart.org/)
+
 
 | Syntax      | Description |
 | ----------- | ----------- |
