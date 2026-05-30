@@ -27,20 +27,23 @@ Why the Topic is Important & Interesting: this topic sits at the fascinating int
 *Custom Data (From Us): to make the app unique, special, and easy to use, we add our own curated data. We use copyright-free classic art from museums to teach the AI beautiful painting techniques. We use a powerful, pre-built AI "brain" trained on public data, and then customize it with our own specific artistic style and user feedback.
 
 [WikiArt.org](https://www.wikiart.org/)
+[Common Crawl](https://commoncrawl.org/)
 
 
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
 
 ## Challenges
-
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+*What the Project Does NOT Solve:
+True Original Human Intent: The AI cannot "think" or feel. It doesn't have personal experiences, trauma, or joy to express; it only reacts to what the human provides. 
+The emotional soul of the artwork still relies entirely on the user.
+*Technical & Practical Limitations:
+The "Style Lock" Trap: AI models are bound by their training. If a user wants to create a completely new, never-before-seen art movement, the AI will naturally try to pull it back toward existing styles it already knows.
+Compute and Latency: Generating high-resolution art in real-time requires powerful servers. Users with slow internet or older devices might experience lag, meaning the "instant" collaboration isn't always perfectly instant.
+Copyright Inability: In many legal jurisdictions, artwork generated purely or mostly by AI cannot be copyrighted by the user, which limits its use for major commercial branding.
+Flawless Physical Realism: If a user needs hyper-precise technical schematics, blueprint-accurate architecture, or perfectly rendered anatomical details (like exact dental work or 10-finger hand symmetry every single time), this creative tool won't solve that. It is designed for artistic expression, not industrial engineering.
 
 ## What next?
-
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+*Multi-Modal Pipelines (Image to Video & Audio): the future of digital art is no longer static. Your project can evolve from generating a flat painting to animating it into a moving masterpiece. Users could paint a landscape, and the AI would breathe life into it—making the clouds move, the rain fall, and adding synchronized, ambient soundscapes.
+*Personalized Style Engines (Your Own Custom AI): instead of using generic public styles, the app could let users upload 10–15 of their own past drawings. The AI would create a personalized model (a LoRA) trained specifically on their artistic DNA. This transforms the AI from a general tool into a hyper-customized assistant that truly paints like them.
 
 
 ## Acknowledgments
